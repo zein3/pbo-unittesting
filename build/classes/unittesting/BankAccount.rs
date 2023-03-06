@@ -1,2 +1,0 @@
-unittesting.ITransaksi
-unittesting.BankAccount
